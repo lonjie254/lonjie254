@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lonjie254
+- 👀 I’m interested in cyber security.
+- 🌱 I’m currently learning python and java
+- 💞️ I’m looking to collaborate on any project related to my study
+- 📫 How to reach me through longinuswaweru6@gmail.com
